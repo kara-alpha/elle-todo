@@ -1,0 +1,9 @@
+* {
+   box-sizing: border-box;
+   font-size: 20px;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+ol {
+   margin-top: -20px;
+}
